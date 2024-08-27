@@ -55,8 +55,11 @@ Cloudinary: Manages and optimizes images uploaded by users, such as those associ
 Mapbox: Powers an interactive map that displays HotSpot locations with zoomable and cluster map features.
 
 EJS (Embedded JavaScript Templates): A templating language used to create dynamic, server-rendered user interfaces.
+
 Bootstrap: A CSS framework that enhances the visual appeal and responsiveness of the user interface.
+
 Render: Used for hosting the complete application.
+
 Website Functionality
 Overview
 TravelVenture is a web application that allows users to authenticate, add HotSpots, post reviews and comments, edit or delete their submissions, and view HotSpot locations on an interactive map. The application is built on a MongoDB database, storing all necessary data for users, reviews, and HotSpot details.
