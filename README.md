@@ -41,12 +41,19 @@ Map Interaction: Users can zoom in and out and view the exact location of each H
 ## Technologies Used
 
 Express.js: A minimal, flexible backend framework to streamline server-side development, especially useful for integrating various technologies in a full-stack application.
+
 Express-Session: Enables effective cookie management to enhance user experience through client-server interactions.
+
 Passport.js: Provides authentication and authorization functionalities.
+
 MongoDB: A NoSQL database used to store information about users, HotSpots, reviews, and sessions.
+
 Mongoose: An ORM (Object-Relational Mapping) library for seamless interaction with MongoDB.
+
 Cloudinary: Manages and optimizes images uploaded by users, such as those associated with HotSpots.
+
 Mapbox: Powers an interactive map that displays HotSpot locations with zoomable and cluster map features.
+
 EJS (Embedded JavaScript Templates): A templating language used to create dynamic, server-rendered user interfaces.
 Bootstrap: A CSS framework that enhances the visual appeal and responsiveness of the user interface.
 Render: Used for hosting the complete application.
