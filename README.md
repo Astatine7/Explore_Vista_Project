@@ -4,15 +4,15 @@ Full-stack Web Application
 
 ## Screenshots of the Website
 
-![](https://github.com/user-attachments/assets/c04d6bc2-b08a-4394-8f22-62a29c3dfe5b)
+![](https://github.com/user-attachments/assets/ac54aab6-2aa4-4f40-b643-3c7a1ecf8418)
 
-![](https://github.com/user-attachments/assets/aa475636-4a66-42ce-8ffa-c419d6dd7b66)
+![](https://github.com/user-attachments/assets/ebfcbea5-5246-45d7-8bf1-8d3691542f43)
 
-![](https://github.com/user-attachments/assets/7184fea8-d758-4d0a-8749-26cb4574eb2a)
+![](https://github.com/user-attachments/assets/ecc05686-c7b7-4304-9aec-76a8d3f0180f)
 
-![](https://github.com/user-attachments/assets/294699af-7696-49e9-b70a-3c583f057945)
+![](https://github.com/user-attachments/assets/49c103b5-628c-461e-8879-fdc030cd3e76)
 
-![](https://github.com/user-attachments/assets/e9977dd1-e664-4d70-9d5f-0243686224b8)
+![](https://github.com/user-attachments/assets/5e3b605d-e3e3-4d18-8bc7-d9ae9c772889)
 
 ## Key Features
 
